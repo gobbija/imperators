@@ -2,15 +2,16 @@
   "name": "gobbijs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.4.2",
-    "ms": "^2.1.1"
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6"
   }
 }
